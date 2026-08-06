@@ -16,11 +16,11 @@ This repo serves as my organized workspace for all course requirements, includin
 
 👤 Student Information 
 
-- Name:[Your Full Name] 
+- Name:[Janine Rizzyl B. Pichay] 
 
-- Course/Section:[Your Program & Section] 
+- Course/Section:[Information Technology & 4th Year Block I] 
 
-- Instructor:[Name of Instructor] 
+- Instructor:[Jenkielyn Torres] 
 
 - School Year: [2026-2027] 
 
